@@ -8034,3 +8034,75 @@ map:cb9accf17e079ad479e9c8d3a2b9d9da9ef4f278
       mr:target     <http://www.metarelate.net/metOcean/component/053524a1baa02ae3ab1f95d5e4a9e73c4f3ceedb> ;
       skos:note     "migrated from Iris 1.5" .
 
+
+map:ef61436b497d5df25b4c3aaa5a27602ab7e82769
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/marqh> ;
+      dc:date       "2014-01-08T13:13:21.741660"^^xsd:dateTime ;
+      dc:replaces   <http://www.metarelate.net/metOcean/mapping/4ed961dbce55c4779c2f77ce5dadc521d1a14868> ;
+      mr:invertible  "True" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/300f1fe1d9f61572038e4bd7434bbf279aa1991e> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/f360f405fbdb0ccc5469a31cf54946e202038bcf> ;
+      skos:note     "Created by Byron Blay" .
+
+map:b19e3abd23330efa659a92940945c9bb91243189
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/marqh> ;
+      dc:date       "2014-01-08T13:05:21.041355"^^xsd:dateTime ;
+      dc:replaces   <http://www.metarelate.net/metOcean/mapping/9253e4b44f49d5f568982c9444868bb5c00f7d12> ;
+      mr:invertible  "True" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/ce12db3976f88d828fcaa77969d355f3720616cf> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/07d4ce2dde1996e08f5eed8722da812ee987c911> ;
+      skos:note     "Created by Byron Blay" .
+
+<http://www.metarelate.net/metOcean/mapping/9253e4b44f49d5f568982c9444868bb5c00f7d12>
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/marqh> ;
+      dc:date       "2014-01-08T13:00:53.981706"^^xsd:dateTime ;
+      mr:invertible  "True" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/ce12db3976f88d828fcaa77969d355f3720616cf> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/07d4ce2dde1996e08f5eed8722da812ee987c911> ;
+      skos:note     "Created by Byron Blay" .
+
+<http://www.metarelate.net/metOcean/mapping/8694b54489de56c53901ab15ba30a8de7b44b1fa>
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/marqh> ;
+      dc:date       "2014-01-08T13:07:36.457493"^^xsd:dateTime ;
+      dc:replaces   map:b19e3abd23330efa659a92940945c9bb91243189 ;
+      mr:invertible  "True" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/b7ec85d6ec192e561375cae8f52ce502dc786bc0> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/07d4ce2dde1996e08f5eed8722da812ee987c911> ;
+      skos:note     "Created by Byron Blay" .
+
+map:c1e8e0edcd1c6b46386c6116db7e1870027ebaf4
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/marqh> ;
+      dc:date       "2014-01-08T13:07:41.741445"^^xsd:dateTime ;
+      dc:replaces   <http://www.metarelate.net/metOcean/mapping/8694b54489de56c53901ab15ba30a8de7b44b1fa> ;
+      mr:invertible  "True" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/b7ec85d6ec192e561375cae8f52ce502dc786bc0> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/07d4ce2dde1996e08f5eed8722da812ee987c911> ;
+      skos:note     "Created by Byron Blay" .
+
+<http://www.metarelate.net/metOcean/mapping/4ed961dbce55c4779c2f77ce5dadc521d1a14868>
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/marqh> ;
+      dc:date       "2014-01-08T13:07:49.127617"^^xsd:dateTime ;
+      dc:replaces   map:c1e8e0edcd1c6b46386c6116db7e1870027ebaf4 ;
+      mr:invertible  "True" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/b7ec85d6ec192e561375cae8f52ce502dc786bc0> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/07d4ce2dde1996e08f5eed8722da812ee987c911> ;
+      skos:note     "Created by Byron Blay" .
+
