@@ -8034,3 +8034,27 @@ map:cb9accf17e079ad479e9c8d3a2b9d9da9ef4f278
       mr:target     <http://www.metarelate.net/metOcean/component/053524a1baa02ae3ab1f95d5e4a9e73c4f3ceedb> ;
       skos:note     "migrated from Iris 1.5" .
 
+
+map:adb48e20502e5978039ad08148971524d146aa87
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/marqh> ;
+      dc:date       "2014-01-08T14:55:27.814337"^^xsd:dateTime ;
+      dc:replaces   map:baba403abb81d14edb795018a8988c3492dca038 ;
+      mr:invertible  "True" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/df38bcfeccc6426b93acab8e3b861efb18079951> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/27b1d03077d55286c3db93d91535cf899b4525be> ;
+      skos:note     "Added by Byron Blay" .
+
+map:baba403abb81d14edb795018a8988c3492dca038
+      rdf:type      mr:Mapping ;
+      dc:creator    <http://www.metarelate.net/metOcean/people/marqh> ;
+      dc:date       "2014-01-08T14:55:11.726820"^^xsd:dateTime ;
+      mr:invertible  "True" ;
+      mr:reason     "new mapping" ;
+      mr:source     <http://www.metarelate.net/metOcean/component/df38bcfeccc6426b93acab8e3b861efb18079951> ;
+      mr:status     "Draft" ;
+      mr:target     <http://www.metarelate.net/metOcean/component/27b1d03077d55286c3db93d91535cf899b4525be> ;
+      skos:note     "Added by Byron Blay" .
+
